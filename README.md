@@ -3,3 +3,5 @@ This repository contains my work for the IIIT Hyderabad Machine Learning course.
 
 Week 1
 Module: Probability & Statistics
+Week 2 
+Module:Feature Extraction
